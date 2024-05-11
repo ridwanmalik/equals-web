@@ -1,0 +1,37 @@
+# .gitignore for wordpress project
+
+
+# Core
+# /wp-admin/
+# /wp-content/index.php
+# /wp-content/languages
+# /wp-content/plugins/index.php
+# /wp-content/themes/index.php
+# /wp-includes/
+# /index.php
+# /license.txt
+# /readme.html
+# /wp-*.php
+# /xmlrpc.php
+
+# Configuration
+# wp-conf
+
+# Example themes
+/wp-content/themes/twenty*/
+
+# Example plugin
+/wp-content/plugins/hello.php
+
+
+# Log files
+*.log
+
+# htaccess
+/.htaccess
+
+# All plugins
+#/wp-content/plugins
+
+# All themes
+#/wp-content/themes
